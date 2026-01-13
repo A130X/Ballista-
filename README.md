@@ -1,6 +1,6 @@
 # ballista
 
-> A GitHub App Tool for Acive scaning
+> A GitHub App Tool for Active scaning
 
 ## Setup
 
